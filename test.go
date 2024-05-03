@@ -7,5 +7,5 @@ func Add(a, b int) int {
 }
 func main() {
 	c := Add(3, 6)
-	fmt.Println(c)
+	fmt.Println(c) //
 }
